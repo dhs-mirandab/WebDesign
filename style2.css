@@ -1,0 +1,17 @@
+p {
+  color:red;
+  size:12;
+  font:sans-serif;
+}
+
+img src {
+  width: 50%;
+  height: 50%;
+  border:dotted;
+}
+
+a {
+  color: hotpink;
+  size: 15;
+}
+
