@@ -11,6 +11,13 @@ header {
   text-align: center;
 }
 
+h1 {
+  background: dimGray;
+  font color: white;
+  size: 12;
+  text-align: center;
+}
+
 body {
   background: white;
 }
