@@ -4,6 +4,12 @@ p {
   font:sans-serif;
 }
 
+h1 {
+  color:navy;
+  size: 16;
+  text-decoration: bold;
+}
+
 img src {
   width: 50%;
   height: 50%;
@@ -13,5 +19,6 @@ img src {
 a {
   color: hotpink;
   size: 15;
+  text-decoration: underline;
 }
 
