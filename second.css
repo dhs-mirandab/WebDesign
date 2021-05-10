@@ -1,3 +1,40 @@
+p {
+  font: sans-serif;
+  text-align: center;
+  color: teal;
+}
 
+header {
+  background: dimGray;
+  font color: white;
+  size: 12;
+  text-align: center;
+}
 
+body {
+  background: white;
+}
 
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+h2 {
+   font: georgia;
+  text-align: center;
+  font color: black;
+  size: 5;
+}
+
+p {
+  border-style: dashed;
+  alignment: right;
+  font-color: black;
+  size: 5;
+}
+  
+  
+
+  
+  
