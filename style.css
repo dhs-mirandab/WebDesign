@@ -1,7 +1,8 @@
 p {
-  font: sans-serif;
-  text-align: center;
-  color: teal;
+  border-style: dashed;
+  alignment: right;
+  font-color: black;
+  size: 5;
 }
 
 header {
@@ -36,12 +37,6 @@ h2 {
   text-decoration: italic;
 }
 
-p {
-  border-style: dashed;
-  alignment: right;
-  font-color: black;
-  size: 5;
-}
   
   a {
     border-style: solid;
@@ -49,5 +44,10 @@ p {
     text-decoration: underline;
 }
 
+img {
+  alignment: left;
+  width: 30%;
+  height: 30%;
+  
   
   
