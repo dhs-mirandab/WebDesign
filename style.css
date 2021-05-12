@@ -3,7 +3,8 @@ p {
   float: right;
   font-color: black;
   size: 5;
-}
+  padding: 50;
+} 
 
 header {
   background: dimGray;
