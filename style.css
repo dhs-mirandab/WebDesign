@@ -1,6 +1,6 @@
 p {
   border-style: dashed;
-  alignment: right;
+  float: right;
   font-color: black;
   size: 5;
 }
@@ -45,7 +45,7 @@ h2 {
 }
 
 img {
-  alignment: left;
+  float: left;
   width: 30%;
   height: 30%;
 }
