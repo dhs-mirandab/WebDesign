@@ -3,7 +3,6 @@ p {
   float: right;
   font-color: black;
   size: 5;
-  padding: 50;
 } 
 
 header {
@@ -49,6 +48,13 @@ img {
   float: left;
   width: 45%;
   height: 45%;
+}
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
   
   
