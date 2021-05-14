@@ -1,13 +1,21 @@
 p {
   float: right;
   font-color: black;
-  size: 5;
+  size: 7;
   padding-top: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
   padding-left: 20px;
 } 
-
+h3 {
+  float: left;
+  font-color: black;
+  size: 7;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+} 
 header {
   background: dimGray;
   font color: white;
