@@ -1,5 +1,4 @@
 p {
-  border-style: dashed;
   float: right;
   font-color: black;
   size: 5;
@@ -58,8 +57,8 @@ h2 {
 
 img {
   float: left;
-  width: 30%;
-  height: 30%;
+  width: 40%;
+  height: 40%;
 }
 
 div {
